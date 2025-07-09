@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/UI5/linter/compare/v1.16.1...v1.17.0) (2025-07-09)
+
+
+### Features
+
+* Add html linter output ([8f0d631](https://github.com/UI5/linter/commit/8f0d63190d189df695c2124d6cefc1d0ad10c87b))
+
 ## [1.16.1](https://github.com/UI5/linter/compare/v1.16.0...v1.16.1) (2025-07-08)
 
 
